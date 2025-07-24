@@ -1,1 +1,1 @@
-hello from DevOps CI
+echo "hello from DevOps CI"
